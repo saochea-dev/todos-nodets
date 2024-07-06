@@ -1,0 +1,9 @@
+# Node.js dependencies
+/node_modules
+
+# TypeScript compiled files
+build/*
+
+# exception to the rule
+!build/.buildinfo
+

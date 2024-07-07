@@ -25,3 +25,7 @@
     ```sh
     npm install
     ```
+
+## Running the Server
+
+1. npm start

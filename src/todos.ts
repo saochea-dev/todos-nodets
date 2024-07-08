@@ -7,14 +7,14 @@ export const todos:{id:number,title:string,completed:boolean}[] = [
 ]
 */
 
-interface Todo{
+export interface Todo{
     id:number,
     title:string,
     completed:boolean,
 }
 
 
-const todos:Todo[]=[
+export const todos:Todo[]=[
 
     {id:1,title:'Learn NodeJs',completed:true},
     {id:2,title:'Master Express',completed:false},
